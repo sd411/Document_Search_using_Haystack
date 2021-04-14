@@ -1,4 +1,3 @@
 !pip install git+https://github.com/deepset-ai/haystack.git
 !pip install urllib3==1.25.4
 !pip install TextBlob
-!python haystack_QA.py
